@@ -5,6 +5,8 @@ excluding version control dirs, unreadable files, all (vendor, tests, Tests) dir
   
 ## Usage
 
+Download latest [phar release](https://github.com/amaabdou/php-numeric-stats/releases) into your bin dir 
+
 ```
 $ PhpNumStats.phar | sort -rn
   0 | functions found in file     1/1708|autoload.php
